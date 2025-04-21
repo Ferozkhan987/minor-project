@@ -55,10 +55,10 @@ section{
     position: relative;
     background: transparent;
     width: 410px;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #de82f3;
     background: transparent;
     margin: 1.5em 0.5em 0.2em;
-    color:white;
+    color:rgb(230, 63, 196);
     
 }
 .email-bo label{
